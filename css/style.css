@@ -139,6 +139,8 @@ input[type="email"],
 }
 #MERGE0 {
   width: 30%;
+  margin-left: 18%;
+  margin-right: 30px;
 }
 #comment {
   margin-left: 20%;

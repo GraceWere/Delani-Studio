@@ -102,3 +102,28 @@ html {
   padding-top: 40px;
   font-family: "Poppins", sans-serif;
 }
+.contact {
+  background-image: url("../images/background/c_image.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+.title {
+  padding: 6px;
+}
+.contact h2 {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}
+input[type="text"],
+input[type="email"],
+#comment {
+  background: transparent;
+  color: white;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}

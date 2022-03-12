@@ -50,3 +50,12 @@ html {
     transform: translateY(-45px);
   }
 }
+.about {
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  font-family: "Poppins", sans-serif;
+}
+#about {
+  font-family: "Poppins", sans-serif;
+}
